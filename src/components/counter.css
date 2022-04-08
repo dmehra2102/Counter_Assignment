@@ -1,0 +1,14 @@
+#small-div{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    margin-top: 20px;
+}
+#img{
+    width: 140px;
+    height: 140px;
+}
+.text{
+    color: darkblue;
+    text-align: center;
+}
